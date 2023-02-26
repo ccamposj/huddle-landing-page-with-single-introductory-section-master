@@ -196,7 +196,7 @@ body {
   }
 }
 
-@media (min-width: 88em) {
+@media (min-width: 80em) {
   html {
     font-size: 95%;
   }
